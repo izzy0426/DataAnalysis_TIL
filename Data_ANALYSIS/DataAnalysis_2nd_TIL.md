@@ -83,12 +83,11 @@ HTML 안에 있는 내용을 찾을 때 사용하는 파이썬 라이브러리
 
 # 2️⃣ 수행 인증
 
-![alt text](image-3.png)
-![alt text](image-4.png)
-![alt text](image-5.png)
-![alt text](image-6.png)
-![alt text](image-7.png)
-
+![alt text](image/image-3.png)
+![alt text](image/image-4.png)
+![alt text](image/image-5.png)
+![alt text](image/image-6.png)
+![alt text](image/image-7.png)
 <br>
 <br>
 

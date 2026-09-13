@@ -99,9 +99,9 @@ WHERE
 
 아래 중 하나 이상을 첨부해주세요.
 
-![alt text](image-1.png)
-![alt text](image-2.png)
-![alt text](image-4.png)
+![alt text](image/image-1.png)
+![alt text](image/image-2.png)
+![alt text](image/image-4.png)
 
 ---
 
@@ -125,7 +125,7 @@ WHERE
 - 새로 배운 점: 테이블에서 확인하고자 하는 컬럼과 레코드를 조회하는 방법을 배웠다.
 ```
 
-![alt text](image-5.png)
+![alt text](image/image-5.png)
 
 ## 🧩 문제 2
 
@@ -140,7 +140,7 @@ WHERE
 - 새로 배운 점: ORDER BY에서 역순을 보여주는 방법을 배웠다.
 ```
 
-![alt text](image-6.png)
+![alt text](image/image-6.png)
 
 ---
 
