@@ -52,7 +52,6 @@ https://www.youtube.com/watch?v=NTQ5NXelOfw&list=PLVsNizTWUw7FGzSRCkQrPEEe-ljVXg
 - `alpha` 매개변수 : 마커의 투명도 결정
 - `edgecolor` 매개변수 : 마커 테두리 색 결정
 - `linewidths` 매개변수 : 마커 테두리 선의 두께 결정
-
 ### 컬러맵
 
 - 값에 따라 색상 표현하기
@@ -110,12 +109,12 @@ for pub in top30_pubs.index[:5]:
 
 # 2️⃣ 수행 인증
 
-![image6-1](image6-1.png)
-![image6-2](image6-2.png)
-![image6-3](image6-3.png)
-![image6-4](image6-4.png)
-![image6-5](image6-5.png)
-![image6-6](image6-6.png)
+![image6-1](image/image6-1.png)
+![image6-2](image/image6-2.png)
+![image6-3](image/image6-3.png)
+![image6-4](image/image6-4.png)
+![image6-5](image/image6-5.png)
+![image6-6](image/image6-6.png)
 
 <br>
 <br>
